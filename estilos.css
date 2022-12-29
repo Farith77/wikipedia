@@ -1,0 +1,14 @@
+body{
+	background: white;
+	color: black;
+}
+div{
+	border: solid black;
+	border-radius: 30px;
+	width: 600px;
+	margin-left: 480px;
+}
+a{
+	display: block;
+	margin-left: 500px;
+}
